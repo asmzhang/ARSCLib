@@ -16,10 +16,11 @@ if (JavaVersion.current().isJava8Compatible()) {
         }
     }
 }
-repositories {
-    mavenCentral()
-    mavenLocal()
-}
+
+//repositories {
+//    mavenCentral()
+//    mavenLocal()
+//}
 
 dependencies {
     testImplementation 'junit:junit:4.12'

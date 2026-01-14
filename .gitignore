@@ -1,6 +1,7 @@
 # Project exclude paths
 /.gradle/
-/build/
+**/build/
+**/bin/
 /test-apk/
 /src/main/java/zorg/
 /gradle/wrapper/gradle-wrapper.properties
